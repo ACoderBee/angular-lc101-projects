@@ -2,10 +2,11 @@ h3 {
    color: brown;
 }
 
-img {
+img { width:calc(100% -40px);
 
 }
 
 .photos {
    text-align: center;
+   
 }
